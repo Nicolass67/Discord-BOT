@@ -70,5 +70,5 @@ async def count(ctx):
             
     
     
-token = "MTAyMjExMjgzOTM0OTA0MzIzMA.GO4lxS.lHA7mkCDCkrgYlVwyX5EzjXg_t8Ak70mVxYihc"
+token = ""
 bot.run(token)  # Starts the bot
